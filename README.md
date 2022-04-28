@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi my name is Nur Fauzi and I'm interest in mobile developer 👋
+- 🔭 I’m currently studying on ... Ahmad Dahlan University
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/nur-fauzi-864159203/).
+- 🌱 I’m currently learning ... Flutter
+- 😄 Pronouns: ... He/him
 
 <!--
 **uzifauzi/uzifauzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
