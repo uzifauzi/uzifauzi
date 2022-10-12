@@ -1,20 +1,49 @@
-### Hi my name is Nur Fauzi and I'm interest in mobile developer 👋
-- 🔭 I’m currently studying on ... Ahmad Dahlan University
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/nur-fauzi-864159203/).
-- 🌱 I’m currently learning ... Flutter
-- 😄 Pronouns: ... He/him
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Fauzi</h1>
 
-<!--
-**uzifauzi/uzifauzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/uzifauzi/uzifauzi">
+    <img src="https://komarev.com/ghpvc/?username=uzifauzi" alt="page views" />
+  </a>
+  <a href="https://github.com/uzifauzi?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/uzifauzi?color=green&logo=github">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td align="left">
+- :office: &nbsp;I'm currently learning at <b>Ahmad Dahlan University<b>
+<br>- :seedling: &nbsp;I’m currently learning <b>Javascript<b>
+<br>- :speech_balloon: &nbsp;I like to talk about <b>Code<b> and <b>Algorithm<b>
+<br>- :mailbox: &nbsp;Ask me anything on my <b>Twitter<b>
+<br>- :computer: &nbsp;Connect with me on <b>LinkedIn<b>
+</td>
+<td align="right">
+<a href="#uzifauzi-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzifauzi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="uzifauzi" align="right"/>
+</a>
+</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="left">
+   <a href="#uzifauzi-title">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzifauzi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="uzifauzi" align="left"/>
+    </a>
+    </td>
+    <td align="right">
+    <a href="#uzifauzi-title">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzifauzi&theme=react&border=61dafb&hide_border=true" alt="uzifauzi" align="right"/>
+    </a>
+    </td>
+  </tr>
+</table>
+
+[linkedin]: https://www.linkedin.com/in/uzifauzi "Fauzi LinkedIn"
+
+<!---
+uzifauzi/uzifauzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
