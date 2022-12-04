@@ -16,7 +16,8 @@
 <br>- :seedling: &nbsp;I’m currently learning <b>Flutter<b>
 <br>- :speech_balloon: &nbsp;I like to talk about <b>Code<b> and <b>Mobile programming<b>
 <br>- :mailbox: &nbsp;Ask me anything on my <b>Instagram<b>
-<br>- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/nur-fauzi-864159203/).
+<br>- :computer: &nbsp;Connect with me on <b>LinkedIn<b>
+  <br>- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/nur-fauzi-864159203/).
 </td>
 <td align="right">
 <a href="#uzifauzi-title">
