@@ -12,7 +12,7 @@
 <table>
 <tr>
 <td align="left">
-- :office: &nbsp;I'm currently working as <b>Software Developer<b>
+- :office: &nbsp;I'm currently working as <b>Solution Architect<b>
 <!-- <br>- :seedling: &nbsp;I’m currently learning <b>Flutter<b> -->
 <br>- :speech_balloon: &nbsp;I like to talk about <b>Code<b> and <b>Mobile programming<b>
 <br>- :mailbox: &nbsp;Ask me anything on my <b>Instagram<b>
